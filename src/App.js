@@ -7,7 +7,7 @@ import Sub2 from './page/Sub2';
 
 function App() {
   return (
-    <BrowserRouter basename='/cooling_center'>
+    <BrowserRouter>
       <main>
         <Routes>
           <Route path="/" element={<Home/>}/>

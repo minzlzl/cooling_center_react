@@ -11,7 +11,7 @@ function Sub2() {
   useEffect(() => {
     // JSON 파일을 가져오는 요청
     axios
-      .get('./db/data.json') // JSON 파일의 경로를 지정
+      .get('  /db/data.json') // JSON 파일의 경로를 지정
       .then((res) => {
         setData(res.data.DATA);
         setLoading(false); // 데이터 로딩이 완료되면 로딩 상태를 false로 설정

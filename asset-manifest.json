@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cooling_center/static/css/main.f5261735.css",
-    "main.js": "/cooling_center/static/js/main.ca6b20c1.js",
+    "main.js": "/cooling_center/static/js/main.fde56b31.js",
     "static/js/787.2d7b3fd0.chunk.js": "/cooling_center/static/js/787.2d7b3fd0.chunk.js",
     "static/media/bg.png": "/cooling_center/static/media/bg.cce40095e16ee5475e6c.png",
     "index.html": "/cooling_center/index.html",
     "main.f5261735.css.map": "/cooling_center/static/css/main.f5261735.css.map",
-    "main.ca6b20c1.js.map": "/cooling_center/static/js/main.ca6b20c1.js.map",
+    "main.fde56b31.js.map": "/cooling_center/static/js/main.fde56b31.js.map",
     "787.2d7b3fd0.chunk.js.map": "/cooling_center/static/js/787.2d7b3fd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5261735.css",
-    "static/js/main.ca6b20c1.js"
+    "static/js/main.fde56b31.js"
   ]
 }

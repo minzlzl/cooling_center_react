@@ -36,10 +36,10 @@ function Main() {
               <figure><img src={icon02}/></figure>
               <p>구별로<br/>확인하기</p>
             </li>
-            <li>
+            {/* <li>
               <figure><img src={icon03}/></figure>
               <p>한파 쉼터<br/>보러가기</p>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

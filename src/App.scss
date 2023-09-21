@@ -409,6 +409,7 @@ body{
           ul{
             width:95%;
             li{
+              width:70px;
               &:nth-of-type(1){
                 padding-left:0px;
               }
@@ -423,6 +424,56 @@ body{
           ul{
             width: 95%;
             li{
+              font-size: 12px;
+              width:70px;
+              &:nth-of-type(1){
+                padding-left:0px;
+              }
+              &:nth-of-type(4){
+                padding-right:0px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .sub2_wrap{
+    height: auto;
+    .sub2{
+      .sub2_tab{
+        ul{
+          li{
+            button{
+              font-weight: 400;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+      .sub2_con{
+        .con_txt_top{
+          width:100%;
+          ul{
+            width:95%;
+            li{
+              width:70px;
+              &:nth-of-type(1){
+                padding-left:0px;
+              }
+              &:nth-of-type(4){
+                padding-right:0px;
+              }
+            }
+          }
+        }
+        .con_txt{
+          width:100%;
+          ul{
+            width:95%;
+            li{
+              font-size: 12px;
+              width:70px;
               &:nth-of-type(1){
                 padding-left:0px;
               }

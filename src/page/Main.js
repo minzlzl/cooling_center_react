@@ -3,6 +3,7 @@ import {Link, useNavigate} from 'react-router-dom';
 import main from '../main.png';
 import icon01 from '../icon01.png';
 import icon02 from '../icon02.png';
+import icon03 from '../icon03.png';
 
 function Main() {
   const nevi = useNavigate();
@@ -34,6 +35,10 @@ function Main() {
             <li onClick={icon2}>
               <figure><img src={icon02}/></figure>
               <p>구별로<br/>확인하기</p>
+            </li>
+            <li>
+              <figure><img src={icon03}/></figure>
+              <p>한파 쉼터<br/>보러가기</p>
             </li>
           </ul>
         </div>

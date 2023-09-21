@@ -195,6 +195,11 @@ body{
       text-align: center;
       margin:0 auto 30px;
     }
+    #map{
+      width:440px;
+      height: 280px;
+      margin:0 auto 25px;
+    }
     .sub2_con{
       .con_txt_top{
         ul{
@@ -386,7 +391,48 @@ body{
   body{
     width:100%;
   }
+  .home_wrap{
+    height: auto;
+  }
   .main_wrap{
     height: auto;
+  }
+  .sub1_wrap{
+    height: auto;
+    .sub1_content{
+      #map{
+        width:95%;
+      }
+      .sub2_con{
+        .con_txt_top{
+          width:100%;
+          ul{
+            width:95%;
+            li{
+              &:nth-of-type(1){
+                padding-left:0px;
+              }
+              &:nth-of-type(4){
+                padding-right:0px;
+              }
+            }
+          }
+        }
+        .con_txt{
+          width:100%;
+          ul{
+            width: 95%;
+            li{
+              &:nth-of-type(1){
+                padding-left:0px;
+              }
+              &:nth-of-type(4){
+                padding-right:0px;
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }

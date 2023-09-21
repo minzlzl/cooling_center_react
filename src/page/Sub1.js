@@ -111,11 +111,7 @@ function Sub1() {
 
         <div className='sub1_content'>
           <p>더운 여름! 가까운<br/>무더위 쉼터를 찾아보세요!</p>
-          <div
-            id="map"
-            style={{ width: '440px', height: '280px', margin: '0 auto 25px' }}
-            ref={mapContainer}
-          ></div>
+          <div id="map" ref={mapContainer}></div>
           <div className='sub2_con'>
             <div className='con_txt_top'>
               <ul>

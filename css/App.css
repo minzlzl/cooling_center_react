@@ -354,4 +354,7 @@ body {
   body {
     width: 100%;
   }
+  .main_wrap {
+    height: auto;
+  }
 }/*# sourceMappingURL=App.css.map */

@@ -3,17 +3,17 @@
   "name": "무더위 쉼터",
   "icons": [
     {
-      "src": "icons/favicon.ico",
+      "src": "/cooling_center/icons/favicon.ico",
       "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "icons/apple-touch-icon-152x152.png",
+      "src": "/cooling_center/icons/apple-touch-icon-152x152.png",
       "type": "image/png",
       "sizes": "152x152"
     },
     {
-      "src": "icons/mstile-310x310.png",
+      "src": "/cooling_center/icons/mstile-310x310.png",
       "type": "image/png",
       "sizes": "558x558"
     }

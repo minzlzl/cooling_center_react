@@ -1,5 +1,5 @@
 import './App.scss';
-import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './page/Home';
 import Main from './page/Main';
 import Sub1 from './page/Sub1';
